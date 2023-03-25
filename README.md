@@ -1,16 +1,9 @@
-# transactions
+# My Expense App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is a very basic project developed in Flutter.
+It offers user a cross platform mobile application which can be used to store user's daily expenses and it shows user their total expense divided on a Bar Chart
+according to the week days.
